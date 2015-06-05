@@ -1,1 +1,0 @@
-/home/jason/git/WebDerm/WebDerm/src/functions2.cpp
